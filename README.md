@@ -1,4 +1,4 @@
-```markdown
+
 # Restaurant Client-Server System
 
 A desktop application for restaurant management developed using **Java**. The project is based on a **client-server architecture**, where the client communicates with the server through socket communication.
