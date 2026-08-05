@@ -15,4 +15,6 @@ The application provides functionality for managing guests, orders, waiters, and
 - NetBeans
 
 The project demonstrates working with client-server communication, database integration, and object-oriented programming.
-```
+# Common Library
+
+A shared Java library used by the client and server applications. It contains common classes required for data exchange and communication between system components.
